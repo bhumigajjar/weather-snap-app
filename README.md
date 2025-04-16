@@ -1,8 +1,4 @@
-# Vue Weather App
-
-This project was designed after following the tutorial here: [Weather App Build (Vue 3 & Tailwind)](https://www.youtube.com/watch?v=gUsBaB5ViAo&list=PL4cUxeGkcC9hfoy8vFQ5tbXO3vY0xhhUZ&ab_channel=NetNinja)
-
-This video covers the essentials of developing a project with Vue 3, Tailwind CSS and Vite to create a website with the latest design elements and styling.
+# Weather Snap App
 
 Below are samples of the website:
 ![Weather App screenshot 1](./src/assets/WeatherApp0.png)
